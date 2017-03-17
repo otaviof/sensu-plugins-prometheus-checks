@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    sensu-plugins-prometheus-checks (2.3.0)
+    sensu-plugins-prometheus-checks (3.0.0)
 
 GEM
   remote: https://rubygems.org/
@@ -52,7 +52,7 @@ GEM
       unicode-display_width (~> 1.0, >= 1.0.1)
     ruby-progressbar (1.8.1)
     safe_yaml (1.0.4)
-    simplecov (0.13.0)
+    simplecov (0.14.0)
       docile (~> 1.1.0)
       json (>= 1.8, < 3)
       simplecov-html (~> 0.10.0)
